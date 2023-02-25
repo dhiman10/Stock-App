@@ -1,7 +1,7 @@
 # Stock-App
 Create a stock application using the Finnhub Stock API with the help of the iOS Academy.
 
-Three third Party are used.
+Three third-party libraries are being used in the project.
 
 Floating Panel: Floating Panel is an open-source iOS library that provides a customizable floating panel interface.
 
