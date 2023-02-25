@@ -1,6 +1,6 @@
 # Stock-App
 Create a stock application using the Finnhub Stock API with the help of the iOS Academy.
-
+Two third Party is used :Floating Panel and SDwebImage
 
 
 
