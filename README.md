@@ -1,8 +1,12 @@
 # Stock-App
 Create a stock application using the Finnhub Stock API with the help of the iOS Academy.
+
 Three third Party are used.
+
 Floating Panel: Floating Panel is an open-source iOS library that provides a customizable floating panel interface.
+
 SDWebImage: SDWebImage is an open-source library that provides asynchronous image loading and caching for iOS apps.
+
 Charts: Charts is a highly customizable open-source library that provides various types of charts, including line, bar, pie, and scatter charts.
 
 
